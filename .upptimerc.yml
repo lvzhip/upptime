@@ -11,8 +11,7 @@ sites:
     url: https://165.84.188.81:19005/login
   - name: DNS 8.8.8.8
     check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
+    url: 165.84.188.86
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
