@@ -7,10 +7,12 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
+  - name: My Web Page
     url: https://165.84.188.81:19005/login
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: DNS 8.8.8.8
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
