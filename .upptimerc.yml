@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
-    url: https://news.ycombinator.com
+    url: https://165.84.188.81:19005/login
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
