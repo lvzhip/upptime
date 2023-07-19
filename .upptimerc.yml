@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: My Web Page
-    url: https://165.84.188.81:19005/login
+    url: https://example.koj.co
   - name: ping ip
     check: "tcp-ping"
     url: 165.84.188.86
