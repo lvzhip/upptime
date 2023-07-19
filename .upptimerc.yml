@@ -21,6 +21,9 @@ sites:
     check: "tcp-ping"
     url: 165.84.188.81
     port: 19005
+  - name: Self-signed SSL
+    url: https://165.84.188.81:19005/login
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
