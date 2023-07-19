@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 66,
-    "timeDay": 66,
-    "timeWeek": 66,
-    "timeMonth": 66,
-    "timeYear": 66,
+    "time": 65,
+    "timeDay": 65,
+    "timeWeek": 65,
+    "timeMonth": 65,
+    "timeYear": 65,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 152,
-    "timeWeek": 152,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-19": 131,
+      "2023-07-19": 228,
       "2023-07-18": 864
     }
   },
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-19": 131,
+      "2023-07-19": 228,
       "2023-07-18": 830
     }
   },
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-19": 131,
+      "2023-07-19": 228,
       "2023-07-18": 820
     }
   },
@@ -109,11 +109,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Self-signed SSL",
+    "url": "https://165.84.188.81:19005/login",
+    "icon": "https://icons.duckduckgo.com/ip3/165.84.188.81.ico",
+    "slug": "self-signed-ssl",
+    "status": "down",
+    "uptime": "29.09%",
+    "uptimeDay": "29.09%",
+    "uptimeWeek": "29.09%",
+    "uptimeMonth": "29.09%",
+    "uptimeYear": "29.09%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-07-19": 0
+    }
   }
 ]
