@@ -17,6 +17,10 @@ sites:
     check: "tcp-ping"
     url: 165.84.188.86
     port: 1050
+  - name: alarm
+    check: "tcp-ping"
+    url: 165.84.188.86
+    port: 1052
   - name: ping port
     check: "tcp-ping"
     url: 165.84.188.81
