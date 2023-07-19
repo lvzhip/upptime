@@ -23,7 +23,6 @@ sites:
     port: 19005
   - name: Self-signed SSL
     url: https://165.84.188.81:19005/login
-    runs-on: self-hosted
     __dangerous__insecure: true
 
 status-website:
