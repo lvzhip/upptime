@@ -12,12 +12,12 @@ sites:
   - name: ping ip
     check: "tcp-ping"
     url: 165.84.188.86
-    port: 80
+    port: 20
   - name: ping 2
     check: "tcp-ping"
     url: 165.84.188.86
-    port: 53
-  - name: ping 3
+    port: 1050
+  - name: ping port
     check: "tcp-ping"
     url: 165.84.188.81
     port: 19005
