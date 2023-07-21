@@ -33,7 +33,7 @@ sites:
     url: https://uptimerobot.com/login
     headers:
       - "Content-Type: application/json"
-    body: '{ "userEmail1": "hello","userPassword": "1234" }'
+    body: '{ "userEmail1": "hello","userPassword11": "1234" }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
