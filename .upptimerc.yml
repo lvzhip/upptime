@@ -33,7 +33,7 @@ sites:
     url: https://uptimerobot.com/login
     headers:
       - "Content-Type: application/json"
-    body: '{ "userEmail1": "hello","userPassword11": "1234" }'
+    body: '{ "userEmail": "hello@gmail.com","userPassword": "1234Abcd" }'
     __dangerous__body_down_if_text_missing: '"status":"UP"'
 
 status-website:
