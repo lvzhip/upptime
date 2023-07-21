@@ -15,7 +15,7 @@ sites:
     port: 20
   - name: port 9443
     check: "tcp-ping"
-    url: 165.84.188.86
+    url: 165.84.188.81
     port: 9443
   - name: alarm
     check: "tcp-ping"
