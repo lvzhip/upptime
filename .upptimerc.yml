@@ -34,6 +34,7 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "userEmail1": "hello","userPassword11": "1234" }'
+    __dangerous__body_down_if_text_missing: '"status":"UP"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
