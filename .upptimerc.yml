@@ -28,6 +28,12 @@ sites:
   - name: Self-signed SSL
     url: https://165.84.188.81:19005/login
     __dangerous__insecure: true
+  - name: Login API
+    method: POST
+    url: https://uptimerobot.com/login
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "userEmail": "hello@gmail.com","userPassword": "hellohello" }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
