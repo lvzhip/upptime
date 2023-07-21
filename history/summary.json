@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 105,
+    "timeDay": 87,
     "timeWeek": 78,
     "timeMonth": 78,
     "timeYear": 78,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 184,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 215,
+    "timeDay": 253,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +46,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 96,
+    "timeDay": 89,
+    "timeWeek": 96,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {
-      "2023-07-21": 64,
+      "2023-07-21": 197,
       "2023-07-20": 1373
     }
   },
@@ -73,33 +73,30 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 64,
+      "2023-07-21": 197,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 830
     }
   },
   {
-    "name": "ping 2",
+    "name": "port 9443",
     "url": "165.84.188.86",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ping-2",
+    "slug": "port-9443",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "23.69%",
+    "uptimeDay": "23.69%",
+    "uptimeWeek": "23.69%",
+    "uptimeMonth": "23.69%",
+    "uptimeYear": "23.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 64,
-      "2023-07-20": 1440,
-      "2023-07-19": 1440,
-      "2023-07-18": 820
+      "2023-07-21": 0
     }
   },
   {
@@ -119,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-21": 64,
+      "2023-07-21": 197,
       "2023-07-20": 1440,
       "2023-07-19": 838
     }
@@ -135,11 +132,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 164,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "time": 193,
+    "timeDay": 180,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   },
   {
@@ -153,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 833,
-    "timeWeek": 960,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "time": 963,
+    "timeDay": 897,
+    "timeWeek": 963,
+    "timeMonth": 963,
+    "timeYear": 963,
     "dailyMinutesDown": {}
   }
 ]
