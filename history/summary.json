@@ -85,19 +85,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "port-9443",
     "status": "up",
-    "uptime": "1.85%",
-    "uptimeDay": "1.85%",
-    "uptimeWeek": "1.85%",
-    "uptimeMonth": "1.85%",
-    "uptimeYear": "1.85%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 203,
     "timeWeek": 203,
     "timeMonth": 203,
     "timeYear": 203,
-    "dailyMinutesDown": {
-      "2023-07-21": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "alarm",
