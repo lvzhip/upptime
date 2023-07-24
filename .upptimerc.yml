@@ -3,13 +3,13 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
+  - name: web1
     url: https://www.google.com
-  - name: Wikipedia
+  - name: web2
     url: https://en.wikipedia.org
   - name: Online Chat
     url: https://example.koj.co
-  - name: ping ip
+  - name: ping
     check: "tcp-ping"
     url: 165.84.188.86
     port: 20
@@ -21,7 +21,7 @@ sites:
     check: "tcp-ping"
     url: 165.84.188.86
     port: 1052
-  - name: ping port
+  - name: port 19005
     check: "tcp-ping"
     url: 165.84.188.81
     port: 19005
