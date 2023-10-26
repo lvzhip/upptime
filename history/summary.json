@@ -56,7 +56,7 @@
     "timeMonth": 87,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2023-10-26": 50,
+      "2023-10-26": 146,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
@@ -164,7 +164,7 @@
     "slug": "login-api",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.83%",
@@ -174,6 +174,7 @@
     "timeMonth": 1122,
     "timeYear": 1065,
     "dailyMinutesDown": {
+      "2023-10-26": 0,
       "2023-10-08": 63,
       "2023-10-07": 2,
       "2023-08-25": 17,
