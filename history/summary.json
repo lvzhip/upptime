@@ -28,18 +28,16 @@
     "slug": "web2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 401,
     "timeWeek": 198,
     "timeMonth": 222,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2024-01-14": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Online Chat",
@@ -58,7 +56,8 @@
     "timeMonth": 65,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-01-14": 1433,
+      "2024-01-15": 57,
+      "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
