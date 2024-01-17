@@ -17,7 +17,7 @@ sites:
       - "Content-Type: application/json"
     body: '{ "userEmail": "hello@gmail.com","userPassword": "1234Abcd" }'
 
-    - name: Youdao Translate
+  - name: Youdao Translate
     method: POST
     url: https://fanyi.youdao.com/index.html?keyfrom=baidu2#/
     headers:
