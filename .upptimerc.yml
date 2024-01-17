@@ -17,12 +17,12 @@ sites:
       - "Content-Type: application/json"
     body: '{ "userEmail": "hello@gmail.com","userPassword": "1234Abcd" }'
 
-  - name: Baidu Translate
-    method: POST
-    url: https://fanyi.baidu.com/?aldtype=16047#auto/zh
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "fanyi_src": "peace" }'
+#  - name: Baidu Translate
+#    method: POST
+#    url: https://fanyi.baidu.com/?aldtype=16047#auto/zh
+#    headers:
+#      - "Content-Type: application/json"
+#    body: '{ "fanyi_src": "peace" }'
 
 
 
