@@ -22,7 +22,7 @@ sites:
     url: https://fanyi.youdao.com/index.html?keyfrom=baidu2#/
     headers:
       - "Content-Type: application/json"
-    body: '{ "js_fanyi_input": "peace" }'
+    body: '{ "i": "peace" }'
 
 
 
