@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 105,
-    "timeDay": 89,
-    "timeWeek": 84,
+    "timeDay": 88,
+    "timeWeek": 86,
     "timeMonth": 99,
     "timeYear": 105,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 176,
-    "timeWeek": 307,
-    "timeMonth": 274,
+    "timeDay": 265,
+    "timeWeek": 313,
+    "timeMonth": 267,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -51,12 +51,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 76,
-    "timeDay": 89,
-    "timeWeek": 82,
+    "timeDay": 79,
+    "timeWeek": 83,
     "timeMonth": 89,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2024-08-23": 61,
+      "2024-08-24": 59,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -419,8 +420,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -429,18 +429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "97.82%",
+    "uptime": "97.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.99%",
-    "uptimeYear": "97.65%",
-    "time": 1067,
-    "timeDay": 1134,
-    "timeWeek": 1349,
-    "timeMonth": 1225,
-    "timeYear": 1084,
+    "uptimeMonth": "68.71%",
+    "uptimeYear": "97.37%",
+    "time": 1068,
+    "timeDay": 1413,
+    "timeWeek": 1360,
+    "timeMonth": 1232,
+    "timeYear": 1085,
     "dailyMinutesDown": {
-      "2024-08-23": 61,
+      "2024-08-24": 59,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -452,8 +453,7 @@
       "2024-08-14": 688,
       "2023-10-26": 24,
       "2023-10-08": 63,
-      "2023-10-07": 2,
-      "2023-08-25": 17
+      "2023-10-07": 2
     }
   }
 ]
