@@ -11,13 +11,12 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 101,
-    "timeWeek": 155,
+    "timeDay": 112,
+    "timeWeek": 160,
     "timeMonth": 114,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-04-29": 15,
-      "2024-05-13": 31
+      "2025-04-29": 15
     }
   },
   {
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 144,
-    "timeWeek": 196,
-    "timeMonth": 269,
+    "timeDay": 177,
+    "timeWeek": 188,
+    "timeMonth": 266,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -50,12 +49,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 95,
-    "timeDay": 201,
-    "timeWeek": 146,
-    "timeMonth": 120,
+    "timeDay": 132,
+    "timeWeek": 151,
+    "timeMonth": 121,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-05-12": 80,
+      "2025-05-13": 79,
+      "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -418,8 +418,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -428,18 +427,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "59.04%",
+    "uptime": "58.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.88%",
+    "uptimeYear": "25.61%",
     "time": 1288,
-    "timeDay": 1621,
-    "timeWeek": 1271,
-    "timeMonth": 1261,
+    "timeDay": 1224,
+    "timeWeek": 1247,
+    "timeMonth": 1259,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2025-05-12": 80,
+      "2025-05-13": 79,
+      "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
