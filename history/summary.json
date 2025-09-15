@@ -27,19 +27,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "web2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 108,
-    "timeWeek": 162,
+    "timeDay": 136,
+    "timeWeek": 165,
     "timeMonth": 191,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-09-15": 0
+      "2025-09-15": 19
     }
   },
   {
@@ -59,7 +59,7 @@
     "timeMonth": 162,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-09-15": 1195,
+      "2025-09-15": 1215,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
@@ -432,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "49.54%",
+    "uptime": "49.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -443,7 +443,7 @@
     "timeMonth": 1192,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2025-09-15": 1195,
+      "2025-09-15": 1215,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
