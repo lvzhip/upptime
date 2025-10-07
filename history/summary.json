@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 113,
+    "timeDay": 83,
     "timeWeek": 91,
     "timeMonth": 97,
-    "timeYear": 110,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2025-06-25": 23,
       "2025-06-19": 18,
@@ -34,9 +34,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 234,
-    "timeWeek": 318,
-    "timeMonth": 250,
+    "timeDay": 197,
+    "timeWeek": 296,
+    "timeMonth": 249,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-09-15": 19
@@ -54,12 +54,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 168,
-    "timeWeek": 127,
+    "timeDay": 77,
+    "timeWeek": 126,
     "timeMonth": 111,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-10-06": 74,
+      "2025-10-07": 72,
+      "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -422,8 +423,7 @@
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
-      "2024-10-08": 1440,
-      "2024-10-07": 1440
+      "2024-10-08": 1440
     }
   },
   {
@@ -432,18 +432,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "48.30%",
+    "uptime": "48.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1328,
-    "timeDay": 1645,
-    "timeWeek": 1138,
-    "timeMonth": 1103,
-    "timeYear": 1358,
+    "time": 1327,
+    "timeDay": 852,
+    "timeWeek": 1129,
+    "timeMonth": 1089,
+    "timeYear": 1355,
     "dailyMinutesDown": {
-      "2025-10-06": 74,
+      "2025-10-07": 72,
+      "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -806,8 +807,7 @@
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
-      "2024-10-08": 1440,
-      "2024-10-07": 1440
+      "2024-10-08": 1440
     }
   }
 ]
