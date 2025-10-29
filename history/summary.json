@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 93,
-    "timeWeek": 98,
-    "timeMonth": 92,
+    "timeDay": 66,
+    "timeWeek": 95,
+    "timeMonth": 91,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-06-25": 23,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 286,
-    "timeWeek": 141,
-    "timeMonth": 247,
-    "timeYear": 200,
+    "timeDay": 154,
+    "timeWeek": 153,
+    "timeMonth": 242,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2025-09-15": 19
     }
@@ -54,12 +54,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 114,
-    "timeDay": 93,
-    "timeWeek": 99,
-    "timeMonth": 110,
+    "timeDay": 94,
+    "timeWeek": 100,
+    "timeMonth": 111,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-10-28": 74,
+      "2025-10-29": 80,
+      "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -422,8 +423,7 @@
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
-      "2024-10-30": 1440,
-      "2024-10-29": 1440
+      "2024-10-30": 1440
     }
   },
   {
@@ -432,18 +432,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "47.02%",
+    "uptime": "46.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1335,
-    "timeDay": 1605,
-    "timeWeek": 1387,
-    "timeMonth": 1244,
-    "timeYear": 1345,
+    "timeDay": 925,
+    "timeWeek": 1332,
+    "timeMonth": 1243,
+    "timeYear": 1342,
     "dailyMinutesDown": {
-      "2025-10-28": 74,
+      "2025-10-29": 80,
+      "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -806,8 +807,7 @@
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
-      "2024-10-30": 1440,
-      "2024-10-29": 1440
+      "2024-10-30": 1440
     }
   }
 ]
