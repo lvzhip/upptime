@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 129,
-    "timeWeek": 97,
-    "timeMonth": 113,
+    "timeDay": 117,
+    "timeWeek": 100,
+    "timeMonth": 114,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-06-25": 23,
@@ -34,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 623,
-    "timeWeek": 286,
+    "timeDay": 184,
+    "timeWeek": 296,
     "timeMonth": 224,
     "timeYear": 196,
     "dailyMinutesDown": {
@@ -54,12 +54,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 117,
-    "timeDay": 236,
-    "timeWeek": 124,
-    "timeMonth": 124,
+    "timeDay": 116,
+    "timeWeek": 127,
+    "timeMonth": 125,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-12-08": 81,
+      "2025-12-09": 80,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -422,8 +423,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   },
   {
@@ -432,18 +432,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "44.80%",
+    "uptime": "44.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1338,
-    "timeDay": 1604,
-    "timeWeek": 1191,
-    "timeMonth": 1128,
-    "timeYear": 1307,
+    "time": 1340,
+    "timeDay": 1454,
+    "timeWeek": 1268,
+    "timeMonth": 1145,
+    "timeYear": 1308,
     "dailyMinutesDown": {
-      "2025-12-08": 81,
+      "2025-12-09": 80,
+      "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1440,
@@ -806,8 +807,7 @@
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
-      "2024-12-10": 1440,
-      "2024-12-09": 1440
+      "2024-12-10": 1440
     }
   }
 ]
