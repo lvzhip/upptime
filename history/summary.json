@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 120,
-    "timeDay": 133,
-    "timeWeek": 460,
+    "timeDay": 115,
+    "timeWeek": 464,
     "timeMonth": 287,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 846,
-    "timeWeek": 301,
-    "timeMonth": 244,
+    "timeDay": 351,
+    "timeWeek": 341,
+    "timeMonth": 234,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-09-15": 19
@@ -55,12 +55,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 118,
-    "timeDay": 260,
-    "timeWeek": 180,
-    "timeMonth": 133,
-    "timeYear": 129,
+    "timeDay": 130,
+    "timeWeek": 182,
+    "timeMonth": 126,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-12-25": 83,
+      "2025-12-26": 83,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -423,8 +424,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -433,18 +433,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "43.94%",
+    "uptime": "43.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1341,
-    "timeDay": 1442,
-    "timeWeek": 1247,
-    "timeMonth": 1196,
-    "timeYear": 1292,
+    "timeDay": 1448,
+    "timeWeek": 1309,
+    "timeMonth": 1194,
+    "timeYear": 1291,
     "dailyMinutesDown": {
-      "2025-12-25": 83,
+      "2025-12-26": 83,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -807,8 +808,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   }
 ]
