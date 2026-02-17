@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 87,
-    "timeWeek": 92,
-    "timeMonth": 110,
+    "timeDay": 79,
+    "timeWeek": 91,
+    "timeMonth": 109,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2026-01-18": 23,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 196,
-    "timeWeek": 212,
-    "timeMonth": 203,
+    "timeDay": 80,
+    "timeWeek": 211,
+    "timeMonth": 201,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-09-15": 19
@@ -57,12 +57,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 120,
-    "timeDay": 117,
-    "timeWeek": 140,
-    "timeMonth": 108,
+    "timeDay": 80,
+    "timeWeek": 139,
+    "timeMonth": 109,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-02-16": 116,
+      "2026-02-17": 114,
+      "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
@@ -425,8 +426,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   },
   {
@@ -435,16 +435,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "up",
-    "uptime": "42.90%",
+    "uptime": "42.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.40%",
-    "uptimeYear": "3.69%",
-    "time": 1283,
-    "timeDay": 484,
-    "timeWeek": 551,
-    "timeMonth": 761,
-    "timeYear": 1210,
+    "uptimeMonth": "45.68%",
+    "uptimeYear": "3.97%",
+    "time": 1281,
+    "timeDay": 403,
+    "timeWeek": 525,
+    "timeMonth": 729,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2026-02-02": 868,
       "2026-02-01": 1440,
@@ -795,8 +795,7 @@
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
-      "2025-02-18": 1440,
-      "2025-02-17": 1440
+      "2025-02-18": 1440
     }
   }
 ]
