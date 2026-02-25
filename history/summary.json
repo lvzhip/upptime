@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 122,
-    "timeDay": 85,
-    "timeWeek": 94,
-    "timeMonth": 97,
+    "timeDay": 114,
+    "timeWeek": 95,
+    "timeMonth": 98,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2026-01-18": 23,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 174,
-    "timeWeek": 139,
-    "timeMonth": 164,
-    "timeYear": 198,
+    "timeDay": 304,
+    "timeWeek": 169,
+    "timeMonth": 172,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2025-09-15": 19
     }
@@ -57,12 +57,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 121,
-    "timeDay": 162,
-    "timeWeek": 122,
-    "timeMonth": 112,
+    "timeDay": 96,
+    "timeWeek": 125,
+    "timeMonth": 113,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-02-24": 113,
+      "2026-02-25": 116,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -425,8 +426,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
@@ -435,16 +435,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "up",
-    "uptime": "43.38%",
+    "uptime": "43.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.69%",
-    "uptimeYear": "5.88%",
-    "time": 1267,
-    "timeDay": 616,
-    "timeWeek": 503,
-    "timeMonth": 558,
-    "timeYear": 1188,
+    "uptimeMonth": "71.98%",
+    "uptimeYear": "6.16%",
+    "time": 1266,
+    "timeDay": 712,
+    "timeWeek": 535,
+    "timeMonth": 534,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2026-02-02": 868,
       "2026-02-01": 1440,
@@ -787,8 +787,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   }
 ]
