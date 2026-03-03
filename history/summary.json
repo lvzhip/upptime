@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 124,
-    "timeDay": 80,
-    "timeWeek": 237,
-    "timeMonth": 131,
+    "timeDay": 104,
+    "timeWeek": 240,
+    "timeMonth": 130,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2026-01-18": 23,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 199,
-    "timeWeek": 173,
-    "timeMonth": 172,
-    "timeYear": 199,
+    "timeDay": 277,
+    "timeWeek": 187,
+    "timeMonth": 178,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2025-09-15": 19
     }
@@ -57,12 +57,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 121,
-    "timeDay": 74,
-    "timeWeek": 103,
-    "timeMonth": 114,
+    "timeDay": 123,
+    "timeWeek": 97,
+    "timeMonth": 115,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-03-02": 113,
+      "2026-03-03": 116,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -425,8 +426,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -435,16 +435,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimerobot.com.ico",
     "slug": "login-api",
     "status": "up",
-    "uptime": "43.74%",
+    "uptime": "43.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "7.53%",
-    "time": 1256,
-    "timeDay": 454,
-    "timeWeek": 518,
-    "timeMonth": 494,
-    "timeYear": 1175,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "7.80%",
+    "time": 1253,
+    "timeDay": 660,
+    "timeWeek": 524,
+    "timeMonth": 501,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2026-02-02": 868,
       "2026-02-01": 1440,
@@ -781,8 +781,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   }
 ]
