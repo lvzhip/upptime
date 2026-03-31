@@ -1,7 +1,7 @@
 url: https://uptimerobot.com/login
-status: down
-code: 405
-responseTime: 95
-lastUpdated: 2026-03-30T23:28:09.938Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2026-03-31T15:34:35.829Z
 startTime: 2023-07-21T03:55:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
